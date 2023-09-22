@@ -92,7 +92,10 @@ class EwalletType
             self::PAYMAYA,
             self::SHOPEEPAY,
             self::GCASH,
-            self::GRABPAY
+            self::GRABPAY,
+            self::ASTRAPAY,
+            self::NEXCASH,
+            self::JENIUSPAY,
         ];
     }
 }
